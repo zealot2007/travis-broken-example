@@ -3,3 +3,4 @@ while true
   puts "this is successful #{a}"
   a += 1
 end
+puts 'hello'
