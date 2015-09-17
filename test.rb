@@ -1,5 +1,5 @@
 a = 1
-while true
+10.times do
   puts "this is successful #{a}"
   a += 1
   sleep 1
